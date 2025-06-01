@@ -1,4 +1,4 @@
-# CASIA-M2 Exploratory Data Analysis
+Exploratory Data Analysis
 
 This project provides an exploratory data analysis (EDA) of the **CASIA-M2 dataset**, which is commonly used in facial expression and behavior analysis research.
 
